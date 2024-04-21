@@ -1,0 +1,2 @@
+# Python-implementation-of-the-TF-IDF-information-retrieval-model
+This repository contains a Python implementation of the TF-IDF (term frequency-inverse document frequency) information retrieval model. This technique evaluates the importance of a word in a document within a collection of documents. It measures how frequently a term appears in a document (TF) and how rare it is across all documents (IDF). 
